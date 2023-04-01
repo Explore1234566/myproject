@@ -5,6 +5,9 @@ master写的
 login写的
 
 
+add login from c
+
+
 
  bug修复2332
 
