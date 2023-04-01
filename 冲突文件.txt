@@ -10,6 +10,7 @@ add login from c
 
 
  bug修复2332
+bug修复2332232
 
 
 
